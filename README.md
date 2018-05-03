@@ -9,3 +9,6 @@ Features:
   5. Application DONT use Internet, clouds. Data transfer only through local network (WIFI or Lan)
   6. Available For Windows 10 (UWP), Windows 7 and higher, Android (API 21 Lollipop and higher) and IOS
   7. Data encrypted by AES.
+
+
+Required .NET Framework 4.7.1
