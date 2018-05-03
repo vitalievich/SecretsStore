@@ -1,4 +1,4 @@
-# SecretsStore
+Win# SecretsStore
 App for store short private secrets without Internet. Win.,Android, ios
 Application "Secrets Store" is for storing passwors, pin codes and another short private text information.
 Features:
@@ -11,4 +11,4 @@ Features:
   7. Data encrypted by AES.
 
 
-Required .NET Framework 4.7.1
+For Winsows 7 and higher version requires .NET Framework 4.7.1 preinstalled
