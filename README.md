@@ -9,6 +9,6 @@ Features:
   5. Application DONT use Internet, clouds. Data transfer only through local network (WIFI or Lan)
   6. Available For Windows 10 (UWP), Windows 7 and higher, Android (API 21 Lollipop and higher) and IOS
   7. Data encrypted by AES.
-
+  8. Languages: English (def), Russian
 
 For Winsows 7 and higher version requires .NET Framework 4.7.1 preinstalled
